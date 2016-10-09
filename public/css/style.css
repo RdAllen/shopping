@@ -1,0 +1,35 @@
+body{font-family:verdana,arial,helvetica,sans-serif;font-size:11px;color:#999}
+.header{background-color:#f0f0f0;margin:0;padding:2px;clear:both}
+.footer{background-color:#f0f0f0;margin:0;padding:2px;clear:both}
+.content{margin:2px}
+.keepLeft{float:left}
+.keepRight{float:right}
+.clear{clear:both;margin:1px}
+.hide{display:none}
+.show{display:block}
+.marginSml{margin:1px}
+.marginLarge{margin:5px}
+.hr {
+  -moz-border-bottom-colors: none;
+  -moz-border-image: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: #EEEEEE -moz-use-text-color #FFFFFF;
+  border-style: solid none;
+  border-width: 1px 0;
+  margin: 10px 0;
+}
+.shoppingBottom{
+  min-width: 400px;
+  display: -webkit-flex;
+  display: flex;
+}
+.contactShopping {
+    width: 100px;
+    margin: 10px;
+}
+.shoppingTotal {
+    width: 300px;
+    margin: 10px;
+}
